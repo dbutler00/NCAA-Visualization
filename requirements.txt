@@ -1,6 +1,5 @@
 folium
 streamlit
 streamlit_folium
-csv
 pandas
 matplotlib.pyplot
